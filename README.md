@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning-estudar 
 - 💞️ I’m looking to collaborate on estudar
 - 📫 How to reach me me vendo 
-- 😄 Pronouns: ...
+- 😄 Pronouns:ela/dela
 - ⚡ Fun fact: ...
 
 <!---
