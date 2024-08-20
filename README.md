@@ -1,12 +1,8 @@
-- 👋 Hi, I’m **@kami2008-ART**
-- 👀 I’m interested estudar>>>>>
-- 🌱 I’m currently learning-estudar 
-- 💞️ I’m looking to collaborate on estudar
-- 📫 How to reach me me vendo 
-- 😄 Pronouns:ela/dela
-- ⚡ Fun fact: conhecer o gabriel medina 
+Boas vindas ao meu perfil 💙💙
+Meu nome é kaka
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-<!---
-kami2008-ART/kami2008-ART is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://media1.tenor.com/m/Cgnp0YM3YNsAAAAd/jungkook.gif)
